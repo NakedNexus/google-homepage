@@ -12,13 +12,12 @@ form {
     width: 7%;
 }
 
+#button {
+    text-align: center;
+}
+
 button {
-    display: flex;
-    flex-direction: row;
-    background-color: white;
-    color: black;
-    margin: auto;
-    width: 7%;
+    display: inline-block;
 }
 
 #head {
