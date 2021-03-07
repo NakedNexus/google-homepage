@@ -13,9 +13,16 @@ form {
 }
 
 button {
+    display: flex;
+    flex-direction: row;
     background-color: white;
     color: black;
-    display: block;
     margin: auto;
     width: 7%;
+}
+
+#head {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
 }
