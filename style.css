@@ -3,7 +3,6 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: 20%;
-    height: 20%;
 }
 
 form {
@@ -54,8 +53,4 @@ li {
 .bottom-right {
     float: right;
     padding: 6px;
-}
-
-.bottom-center {
-    padding: 800px;
 }
